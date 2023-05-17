@@ -45,7 +45,10 @@ p{
     height: 50px;
     background-color: black;
 }
-  
+
+.interesting{
+  text-align: center;
+}
   
 .navbar {
     display: flex;
